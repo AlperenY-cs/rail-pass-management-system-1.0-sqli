@@ -4,6 +4,7 @@
 - Software Link: https://phpgurukul.com/?sdm_process_download=1&download_id=17479
 - Version: 1.0
 - Tested On: Kali Linux 6.1.27-1kali1 (2023-05-12) x86_64 + XAMPP 7.4.30
+- https://www.exploit-db.com/exploits/51790
 
 ## Description
 On the download-pass.php page, the searchdata parameter in the search function is vulnerable to SQL injection vulnerability.
